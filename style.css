@@ -159,7 +159,7 @@ body{
     width: 90%;
     height: 90%;
     overflow-y: scroll;
-    /* display: none; */
+    display: none;
     padding: 2rem 0;
 }
 .meal-details::-webkit-scrollbar{
